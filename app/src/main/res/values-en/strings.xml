@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لا تنس ذكر الله</string>
+    <string name="action_Share">Share</string>
+    <string name="action_Valuable">Valuable</string>
+    <string name="action_more">More Apps</string>
+    <string name="turn_off">Turn off</string>
+    <string name="turn_on">Turn On</string>
+    <string name="zekarAlertTitle">Choose </string>
+    <string-array name="times">
+        <item>01 Minute</item>
+        <item>05 Minutes</item>
+        <item>10 Minutes</item>
+        <item>15 Minutes</item>
+        <item>20 Minutes</item>
+        <item>30 Minutes</item>
+        <item>01 Hour</item>
+        <item>12 Hours</item>
+        <item>24 Hours</item>
+    </string-array>
+</resources>

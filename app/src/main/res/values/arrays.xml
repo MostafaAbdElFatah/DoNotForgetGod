@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="audios">
+        <item>@raw/sound0</item>
+        <item>@raw/sound1</item>
+        <item>@raw/sound2</item>
+        <item>@raw/sound3</item>
+        <item>@raw/sound4</item>
+        <item>@raw/sound5</item>
+        <item>@raw/sound6</item>
+        <item>@raw/sound7</item>
+        <item>@raw/sound8</item>
+        <item>@raw/sound9</item>
+    </integer-array>
+
+</resources>
